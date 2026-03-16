@@ -15,3 +15,8 @@ Repository ini berisi tugas praktikum Week 3 yang berfokus pada tahapan Data Pre
 - `california_dataset.csv`
 - `company.csv`
 - `Telco-Customer-Churn.csv`
+
+* **💻 Instalasi Library (Khusus Pengguna VS Code):**
+  Jika menjalankan tugas ini di lokal (VS Code), pastikan telah menginstall library pendukung berikut melalui terminal:
+  ```bash
+  pip install pandas numpy matplotlib seaborn scikit-learn scipy
